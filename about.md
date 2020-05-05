@@ -3,36 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/OXY-ENISO-YWB/assets/Media/logoEniso.png" style="width:220px;height:278px;" />
+<img src="/EnovaRobotics-Projects-COVID19/assets/Media/logo.png" style="width:300px;height:220px;" />
 
-The National School of Engineers of Sousse (Arabic: المدرسة الوطنية للمهندسين بسوسة) or ENISo is a Tunisian school of engineers which depends on the University of Sousse.
+In 2014, after +20 years of academics research, Dr. Sahbani decided to fund his own company with a clear goal in mind :
+“Enova Robotics will help people in their daily life thanks to artificial intelligence and robotics. Most difficult, dangerous or repetitive tasks will be handled by robots. Enova Robotics’ core philosophy is knowing today what our customer needs tomorrow”.
 
-Founded in July 2005, the ENISo is first located on avenue du 18-Janvier, in the Bab Jedid district of Sousse, before settling in at the start of the 2011 academic year in the Sousse technopole.
-
-Its objective is to meet a growing national need, day by day, for engineers specializing in advanced industries. With its three branches, its research masters and its professional master's degree, it trains engineers in:
-
-Computer engineering applied to industry
-
-Mechatronics engineering
-
-Industrial electronics engineering.
-
-Embedded telecommunication  engineering.
-
-Productive mechanics engineering.
+Enova Robotics is an advanced security technology company that uses software and hardware to provide its customers with advanced anomaly detection capabilities. Enova Robotics’ short term vision is to detect intrusion and anomalies by utilizing autonomous robots, sensor systems and analytics.
+Enova Robotics combines a unique expertise in mobile robotics, artificial intelligence and security. It gives Enova Robotics the asset to propose cutting-edge and very specific products that represents the future of this sector. Such as numerous other sectors that have been deeply transformed by mobile robotics, Security and Surveillance will change and evolve to become more efficient, safer and adaptable to new threats, thanks to robotics and AI.
 
 
-[ENISo Official Website](http://www.eniso.rnu.tn/fr/)
+[Enova Robotics Official Website](https://enovarobotics.eu/)
 
 
 <hr />
-<img src="/OXY-ENISO-YWB/assets/Media/YWB-logo.png" style="width:300px;height:250px;" />
-
-Under the name "Yes, we breathe" (YWB) , the challenge of the development and manufacture of respirators, resuscitators and biomedical equipment, assumed by establishments of the University of Sousse like the National School of Engineers of Sousse (ENISo) and the Faculty of Medicine Sousse (FMS)   this challenge now grew to become a national movement to fight the COVID19 virus.
-
-<img src="/OXY-ENISO-YWB/assets/Media/collectif2.png" >
-
-
-This initiative has 2 objectives: first, to produce masks to protect doctors and nurses, in charge of patients, against the risks of contamination and secondly, to equip hospitals with an additional number of respirators and resuscitators to cope with a possible increase in the number of patients in intensive care.
-
-[YWB Official Facebook](https://www.facebook.com/YES-WE-Breathe-107629674214127/)
