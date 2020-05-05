@@ -110,7 +110,7 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
 
 ## What?
 <hr />
-JASMIN is a healthcare robot enlisted to fight the coronavirus, allow specialist or doctors to diagnose the patient remotely.
+JASMIN is a healthcare robot / COVID-19 sorting robot for hospitals enlisted to fight the coronavirus, it allows specialist or doctors to diagnose the patient remotely.
 
 
 
@@ -121,16 +121,12 @@ Thanks to its feature this robot can approach , diagnose the patients and preven
 
 ## How?
 <hr />
- It is equipped with a thermographic camera allowing the diagnosing process remotely.
- The robot was entirely engineered tested and manufactured by EnovaRobotics.
+
+  JASMIN is equipped with a chatbot allowing the patient to present his symptoms, and a thermographic camera allowing him to diagnose when he arrives.
+  The robot was entirely engineered tested and manufactured by EnovaRobotics.
 
 
  <hr />
- <hr />
-
-
-
-
 
 
 
