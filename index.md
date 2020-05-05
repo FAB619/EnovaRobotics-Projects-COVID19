@@ -138,6 +138,6 @@ These Projects are products made and sold by EnovaRobotics.
 
 
 FAB619 is only the documentation author. The project belongs to EnovaRobotics.
-The purpose of this documentation is to collect all the Tunisian projects and innovations to fight the COVID19 in one place.
+**The purpose of this documentation is to collect all the Tunisian projects and innovations to fight the COVID19 in one place.
 
-Stay Safe!
+Stay Safe!**
