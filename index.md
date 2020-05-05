@@ -8,7 +8,7 @@
 layout: page
 ---
 
-{{ content }}
+
 
 # The PGuard
 <hr />
