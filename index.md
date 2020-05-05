@@ -8,28 +8,32 @@
 layout: default
 ---
 
+
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fenovarobotics%2Fvideos%2F520389588622003%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
-# The PGuard
-<hr />
 
+# The PGuard
 
 
 ## What?
 <hr />
 PGuard is a rugged security robot for multi-terrain applications , fully autonomous and self-driving gathering significant amounts of data from the environment in real-time and deters negative behavior.
-PGuard provides security professionals a force multiplier with an interface to review events generated from smart “eyes and ears”.
+
 
 
 ## Why?
 <hr />
-Creating this device was part of a challenge that has been launched to support national efforts to combat the Corona virus, especially since artificial respirators are one of the most important ways to save the life of the person living with the virus.
+PGuard provides security professionals a force multiplier with an interface to review events generated from smart “eyes and ears”.
+Thanks to this feature this robot can patrol the streets during quarantine
+to prevent the human interactions between police officers and civilians.
 
 
 ## How?
 <hr />
- The work was carried out with the assistance of doctors and teachers who were able to supervise the students and guide them in their efforts. The machine, which has a touch screen, will thus make it possible to treat respiratory insufficiency in intensive care without resorting to intubation.
+ The robot was entirely engineered tested and manufactured by EnovaRobotics.
+ Follow this [link](https://www.enovarobotics.eu/pguard/) for more information about the PGuard
 
 
 ## Gallery
@@ -54,10 +58,51 @@ Creating this device was part of a challenge that has been launched to support n
 <hr />
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6fHSIEylQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # The Veasense
+
+## What?
+<hr />
+It is the answer to a predicted shortage of caregivers to serve our rapidly aging population. Doctor could connect if necessary and make preliminary diagnostics.
+
+
+
+## Why?
+<hr />
+Veasense makes you interacting with people in remote location and in a synchronous way.
+Thanks to this feature this robot can approach the COVID19 patients during quarantine or treatment to prevent the human interactions between the medical staff and patients thus fight the contagiousness of this disease.
+
+
+## How?
+<hr />
+ Veasense provides telepresence, continuous monitoring and tele-vigilance.
+ The robot was entirely engineered tested and manufactured by EnovaRobotics.
+ Follow this [link](https://www.enovarobotics.eu/veasense-gallery/) for more information about the Veasense.
+
+
+## Gallery
+ <hr />
+
+ <div class="row">
+    <div class="column">
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg" style="width:724px;height:360px;" />
+    </div>
+    <div class="column">
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:724px;" />
+    </div>
+   <div class="column">
+     <img src="/EnovaRobotics-Projects-COVID19/assets/Media/2.jpg" style="width:360px;height:300px;" />
+     <img src="/EnovaRobotics-Projects-COVID19/assets/Media/4.jpg" style="width:360px;height:300px;" />
+   </div>
+
+
+ </div>
+
+<hr />
 <hr />
 
-<img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg">
+
 
 
 
