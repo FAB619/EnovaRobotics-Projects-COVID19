@@ -64,7 +64,7 @@ to prevent the human interactions between police officers and civilians.
 
 ## What?
 <hr />
-It is the answer to a predicted shortage of caregivers to serve our rapidly aging population / COVID19 infected patients. Doctor could connect if necessary and make preliminary diagnostics.
+It is the answer to a predicted shortage of caregivers to serve our rapidly aging population / COVID19 infected patients.
 
 
 
@@ -77,6 +77,7 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
 ## How?
 <hr />
  Veasense provides telepresence, continuous monitoring and tele-vigilance.
+ Doctor could connect if necessary and make preliminary diagnostics.
  The robot was entirely engineered tested and manufactured by EnovaRobotics.
  Follow this [link](https://www.enovarobotics.eu/veasense-gallery/) for more information about the Veasense.
 
@@ -89,8 +90,8 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
       <img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg" style="width:724px;height:420px;" />
     </div>
     <div class="column">
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:800px;" />
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/5.jpg" style="width:360px;height:800px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:700px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/5.jpg" style="width:360px;height:700px;" />
     </div>
    <div class="column">
      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/7.jpg" style="width:360px;height:300px;" />
