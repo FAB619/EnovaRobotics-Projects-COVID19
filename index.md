@@ -90,8 +90,8 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
       <img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg" style="width:724px;height:420px;" />
     </div>
     <div class="column">
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:700px;" />
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/5.jpg" style="width:360px;height:700px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:560px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/5.jpg" style="width:360px;height:560px;" />
     </div>
    <div class="column">
      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/7.jpg" style="width:360px;height:300px;" />
