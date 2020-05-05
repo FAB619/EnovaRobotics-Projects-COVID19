@@ -27,7 +27,7 @@ PGuard is a rugged security robot for multi-terrain applications , fully autonom
 <hr />
 PGuard provides security professionals a force multiplier with an interface to review events generated from smart “eyes and ears”.
 Thanks to this feature this robot can patrol the streets during quarantine
-to prevent the human interactions between police officers and civilians.
+to prevent the human interactions between police officers and civilians and help contain the highly contagious coronavirus .
 
 
 ## How?
@@ -90,7 +90,7 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
       <img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg" style="width:724px;height:420px;" />
     </div>
     <div class="column">
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:560px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.jpg" style="width:360px;height:560px;" />
       <img src="/EnovaRobotics-Projects-COVID19/assets/Media/5.jpg" style="width:360px;height:560px;" />
     </div>
    <div class="column">
@@ -103,6 +103,27 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
 
 <hr />
 <hr />
+
+# The Jasmin
+
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/10.png">
+
+## What?
+<hr />
+JASMIN is a healthcare robot enlisted to fight the coronavirus, allow specialist or doctors to diagnose the patient remotely.
+
+
+
+## Why?
+<hr />
+Thanks to its feature this robot can approach , diagnose the patients and prevent the human interactions with the medical staff thus fight the contagiousness of this disease and help contain it.
+
+
+## How?
+<hr />
+ It is equipped with a thermographic camera allowing the diagnosing process remotely.
+ The robot was entirely engineered tested and manufactured by EnovaRobotics.
+
 
 
 
