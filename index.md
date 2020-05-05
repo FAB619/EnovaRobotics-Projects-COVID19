@@ -123,7 +123,7 @@ Thanks to its feature this robot can approach , diagnose the patients and preven
 <hr />
 
   JASMIN is equipped with a chatbot allowing the patient to present his symptoms, and a thermographic camera allowing him to diagnose when he arrives.
-  The robot was entirely engineered tested and manufactured by EnovaRobotics.
+  The robot was entirely engineered tested and manufactured by EnovaRobotics in collaboration with [ICompass](https://icompassconsulting.home.blog/) .
 
 
  <hr />
