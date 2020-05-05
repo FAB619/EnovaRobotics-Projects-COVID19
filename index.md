@@ -23,16 +23,15 @@ PGuard is a rugged security robot for multi-terrain applications , fully autonom
 PGuard provides security professionals a force multiplier with an interface to review events generated from smart “eyes and ears”.
 
 
-
-
-
 ## Why?
 <hr />
 Creating this device was part of a challenge that has been launched to support national efforts to combat the Corona virus, especially since artificial respirators are one of the most important ways to save the life of the person living with the virus.
 
+
 ## How?
 <hr />
  The work was carried out with the assistance of doctors and teachers who were able to supervise the students and guide them in their efforts. The machine, which has a touch screen, will thus make it possible to treat respiratory insufficiency in intensive care without resorting to intubation.
+
 
 ## Gallery
  <hr />
@@ -42,10 +41,10 @@ Creating this device was part of a challenge that has been launched to support n
       <img src="/EnovaRobotics-Projects-COVID19/assets/Media/1.png" style="width:724px;height:360px;" />
     </div>
     <div class="column">
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/2.jpg" style="width:724px;height:360px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/3.png" style="width:724px;height:360px;" />
     </div>
    <div class="column">
-     <img src="/EnovaRobotics-Projects-COVID19/assets/Media/3.png" style="width:360px;height:300px;" />
+     <img src="/EnovaRobotics-Projects-COVID19/assets/Media/2.jpg" style="width:360px;height:300px;" />
      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/4.jpg" style="width:360px;height:300px;" />
    </div>
 
