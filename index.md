@@ -106,7 +106,7 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
 
 # The Jasmin
 
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/10.png">
+<img src="/EnovaRobotics-Projects-COVID19/assets/Media/10.png">
 
 ## What?
 <hr />
@@ -123,6 +123,10 @@ Thanks to its feature this robot can approach , diagnose the patients and preven
 <hr />
  It is equipped with a thermographic camera allowing the diagnosing process remotely.
  The robot was entirely engineered tested and manufactured by EnovaRobotics.
+
+
+ <hr />
+ <hr />
 
 
 
