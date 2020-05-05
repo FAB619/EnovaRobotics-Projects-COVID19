@@ -33,7 +33,7 @@ to prevent the human interactions between police officers and civilians.
 ## How?
 <hr />
  The robot was entirely engineered tested and manufactured by EnovaRobotics.
- Follow this [link](https://www.enovarobotics.eu/pguard/) for more information about the PGuard
+ Follow this [link](https://www.enovarobotics.eu/pguard/) for more information about the PGuard.
 
 
 ## Gallery
@@ -86,11 +86,11 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
 
  <div class="row">
     <div class="column">
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg" style="width:724px;height:360px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg" style="width:724px;height:420px;" />
     </div>
     <div class="column">
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:820x;" />
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/5.jpg" style="width:360px;height:820x;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:800px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/5.jpg" style="width:360px;height:800px;" />
     </div>
    <div class="column">
      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/7.jpg" style="width:360px;height:300px;" />
