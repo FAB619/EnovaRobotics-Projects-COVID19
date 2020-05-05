@@ -1,7 +1,7 @@
-title: OXY ENISO YWB
+title: ENOVAROBOTICS PROJECTS COVID19
 author:
-  name: This documentation was done by ENISo Students
-  email: Student@eniso.u-sousse.tn
+  name: This documentation was done by ENISo Students, to contact EnovaRobotics:
+  email: contact@enovarobotics.com
 description: > # this means to ignore newlines until "show_excerpts:"
   "OXY ENISO YWB" is an initiative powered by ENISo ,l'école nationae d'ingénieurs de Sousse , and the YesWeBreathe movement
   in partnership with the local companies and the tech community to provide medical supplies
@@ -20,7 +20,7 @@ minima:
     #github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
-     facebook: ENISo.Ecole.Nationale.dIngenieurs.deSousse
+     facebook: enovarobotics
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
