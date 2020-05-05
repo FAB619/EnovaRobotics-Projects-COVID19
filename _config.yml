@@ -3,9 +3,8 @@ author:
   name: This documentation was done by ENISo Students,to contact EnovaRobotics
   email: contact@enovarobotics.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  "OXY ENISO YWB" is an initiative powered by ENISo ,l'école nationae d'ingénieurs de Sousse , and the YesWeBreathe movement
-  in partnership with the local companies and the tech community to provide medical supplies
-  to the medical staff and to help the Tunisian government
+  "ENOVAROBOTICS PROJECTS COVID19" are some of EnovaRobotics products that
+   helped the Tunisian government and the medical staff during the COVID19 cisis.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
