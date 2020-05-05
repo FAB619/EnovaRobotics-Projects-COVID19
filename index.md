@@ -5,7 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: default
+layout: page
 ---
 
 
@@ -56,7 +56,7 @@ Creating this device was part of a challenge that has been launched to support n
 # The Veasense
 <hr />
 
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg" >
+<img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg">
 
 
 
