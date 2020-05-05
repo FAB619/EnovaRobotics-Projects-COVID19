@@ -64,14 +64,14 @@ to prevent the human interactions between police officers and civilians.
 
 ## What?
 <hr />
-It is the answer to a predicted shortage of caregivers to serve our rapidly aging population. Doctor could connect if necessary and make preliminary diagnostics.
+It is the answer to a predicted shortage of caregivers to serve our rapidly aging population / COVID19 infected patients. Doctor could connect if necessary and make preliminary diagnostics.
 
 
 
 ## Why?
 <hr />
-Veasense makes you interacting with people in remote location and in a synchronous way.
-Thanks to this feature this robot can approach the COVID19 patients during quarantine or treatment to prevent the human interactions between the medical staff and patients thus fight the contagiousness of this disease.
+Veasense helps you interact with people in remote location and in a synchronous way.
+Thanks to this feature this robot can approach the COVID19 patients during quarantine or treatment to prevent the human interactions between the medical staff and patients thus fight the contagiousness of this disease and help contain it.
 
 
 ## How?
@@ -89,11 +89,12 @@ Thanks to this feature this robot can approach the COVID19 patients during quara
       <img src="/EnovaRobotics-Projects-COVID19/assets/Media/9.jpg" style="width:724px;height:360px;" />
     </div>
     <div class="column">
-      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:724px;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/6.png" style="width:360px;height:820x;" />
+      <img src="/EnovaRobotics-Projects-COVID19/assets/Media/5.jpg" style="width:360px;height:820x;" />
     </div>
    <div class="column">
-     <img src="/EnovaRobotics-Projects-COVID19/assets/Media/2.jpg" style="width:360px;height:300px;" />
-     <img src="/EnovaRobotics-Projects-COVID19/assets/Media/4.jpg" style="width:360px;height:300px;" />
+     <img src="/EnovaRobotics-Projects-COVID19/assets/Media/7.jpg" style="width:360px;height:300px;" />
+     <img src="/EnovaRobotics-Projects-COVID19/assets/Media/8.jpg" style="width:360px;height:300px;" />
    </div>
 
 
